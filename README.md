@@ -22,16 +22,19 @@ The application follows these steps:
 
 You can try the deployed application here: [https://pdfquestion-euvx4eayptjuxzvrht6wn5.streamlit.app/](https://pdfquestion-euvx4eayptjuxzvrht6wn5.streamlit.app/)
 
+## Repository
+
+The source code for this application can be found on GitHub: [https://github.com/Samtoosoon/Pdfquestion/tree/main](https://github.com/Samtoosoon/Pdfquestion/tree/main)
+
 ## Installation
 
 To run this application locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
-    cd <YOUR_REPOSITORY_NAME>
+    git clone [https://github.com/Samtoosoon/Pdfquestion.git](https://www.google.com/search?q=https://github.com/Samtoosoon/Pdfquestion.git)
+    cd Pdfquestion
     ```
-    *(Replace `<YOUR_REPOSITORY_URL>` and `<YOUR_REPOSITORY_NAME>` with the actual URL and name of your repository)*
 
 2.  **Install the required Python packages:**
     ```bash
