@@ -1,4 +1,4 @@
-# PDF Question Answering Application
+# Brainstorm with Pdfs
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_color.svg)](https://pdfquestion-euvx4eayptjuxzvrht6wn5.streamlit.app/)
 
