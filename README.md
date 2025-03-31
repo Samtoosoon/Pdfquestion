@@ -18,8 +18,8 @@ The application follows these steps:
 8.  **User Interface:** Streamlit provides an interactive graphical user interface for uploading PDFs and asking questions.
 9.  **LLM Integration:** Langchain is used to seamlessly integrate with the LLM.
 
-    ![Project Screenshot](![Screenshot 2025-03-31 200248](https://github.com/user-attachments/assets/38096845-2eff-4d04-823b-7689bc6ad290)
-)
+    ![Screenshot 2025-03-31 200248](https://github.com/user-attachments/assets/38096845-2eff-4d04-823b-7689bc6ad290)
+
 
 ## Deployed Application
 
